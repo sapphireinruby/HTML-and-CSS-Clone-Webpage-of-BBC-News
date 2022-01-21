@@ -2,4 +2,5 @@
 
 - The idea is to clone BBC Technology News webpage with basic frontend skills. <br> 
 
-<a href="https://github.com/sapphireinruby/Clone-BBC-News-/blob/master/image/clone%20BBC%20News.png?raw=true" /></a>
+<img src="https://raw.githubusercontent.com/sapphireinruby/Clone-BBC-News-/master/image/clone%20BBC%20News.png"
+     style="float: left; margin-right: 10px;" />
