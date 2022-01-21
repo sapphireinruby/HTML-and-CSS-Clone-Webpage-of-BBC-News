@@ -2,4 +2,4 @@
 
 - The idea is to clone BBC Technology News webpage with basic frontend skills. <br> 
 
-<a href="https://imgur.com/AIHYWPc"><img src="https://i.imgur.com/AIHYWPc.png" title="source: imgur.com" /></a>
+<a href="https://github.com/sapphireinruby/Clone-BBC-News-/blob/master/image/clone%20BBC%20News.png?raw=true" /></a>
